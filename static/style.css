@@ -1,0 +1,22 @@
+.scroll-top-link {
+    /* background-color:#767676; */
+    color:#fff;
+    opacity:0.8;
+    cursor:pointer;
+    height:55px;
+    padding-top:10px;
+    position:fixed;
+    right:-9px;
+    text-align:center;
+    width:65px;
+    z-index:9999
+   }
+   .scroll-top-link::before {
+    /* content:"\e74a"; */
+    /* font-family:"MWF-MDL2"; */
+    display:inline-block;
+    font-size:25px;
+    position:absolute;
+    top:calc(50% - 18px);
+    left:calc(50% - 15px)
+   }
