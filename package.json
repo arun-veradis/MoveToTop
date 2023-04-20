@@ -16,7 +16,7 @@
   "dependencies": {
     "gatsby": "^2.20.25",
     "gatsby-image": "^2.3.5",
-    "gatsby-plugin-sharp": "^2.5.7",
+    "gatsby-plugin-sharp": "^4.25.1",
     "gatsby-plugin-smoothscroll": "^1.1.0",
     "gatsby-source-filesystem": "^2.2.5",
     "gatsby-transformer-sharp": "^2.4.7",
